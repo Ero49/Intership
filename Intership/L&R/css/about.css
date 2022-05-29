@@ -16,8 +16,6 @@ h3{
 }
 footer{
 	background-color: #526db4;
-	max-width: 1920px;
-	width: 100%;
 }
 .con{
 	padding: 30px 70px 0;
@@ -38,4 +36,10 @@ footer{
 .image{
 	max-width:230px ;
 	width: 100%;
+}
+.pi{
+	align-items: center;
+}
+.found{
+	width: 82%;
 }
