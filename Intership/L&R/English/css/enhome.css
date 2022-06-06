@@ -1,0 +1,696 @@
+*{
+	padding: 0;
+	list-style: none;
+}
+.header{
+	box-shadow: 0 0 10px 7px rgba(	0, 0, 0, 0.25);
+}
+h3{
+	color: #526DB4;
+}
+.link{
+	text-decoration: none !important;
+	color: black;
+}
+p{
+	font-size:18px;
+}
+footer{
+	background-color: #526db4;
+}
+.con{
+	padding: 30px 70px 0;
+}
+.pageimg{
+	padding: 30px 0 0;
+}
+.cont{
+	width: 20px;
+	height: 25px;
+}
+.li{
+	border-bottom: 3px solid #526D84;
+}
+.font{
+	font-size: 15px;
+}
+.image{
+	max-width:230px ;
+	width: 100%;
+}
+.background{
+	background-image: url(../img/green.png);
+}
+.visib{
+	background-image: url(../img/visib.png);
+	background-repeat: no-repeat;
+}
+.girl{
+	margin-top: 89px;
+}
+.bigg1{
+	width: 100%;
+	
+}
+.pick{
+	color: #464646;
+}
+.texts1{
+	padding: 150px 0 0;
+}
+.picturecloud{
+	justify-content: space-between;
+	width: 200px;
+}
+.japan1{
+	color: #A1B61A;
+	padding: 50px 80px 0;
+}
+.japan2{
+	font-size: 11px;
+    padding: 110px 65px 0;
+}
+.p{
+	font-size: 14px;
+}
+.phone{
+	position: relative;
+}
+.pitext{
+
+    font-size: 17px;
+}
+.fiogirl{
+	position: relative;
+	bottom: 0.5px;
+	max-width: 1297px;
+	width: 100%;
+}
+.purple{
+	width: 100%;
+	margin-top: 50%;
+}
+.purple1{
+	margin-bottom: -50%;
+}
+.phoness1{
+	width: 100%;
+}
+.purpleback{
+	margin-top: 20%;
+	background-color:#8257A6 ;
+	width: 100%;
+}
+.orange{
+	background-color: #DD7C32;
+	width: 100%;
+	margin-top: 80%;
+	position: relative;
+	bottom: 200px;
+}
+.margintext{
+	margin-left: 30%;
+}
+.backs{
+	margin-top: -40%;
+}
+.bluue{
+	background-color: #526DB4;
+	height: 300px;
+	margin: 0 auto;
+}
+.girl11{
+	margin-bottom: 10%;
+}
+.putp{
+	float: right;
+}
+.fontsize{
+	font-size: 32px;
+}
+.fonee{
+	margin-top: -20%;
+	margin-right: -20%;
+}
+.clo2{
+	margin-top: -10%;
+}
+.buttton{
+	margin-left: 33%;
+}
+.h1{
+	padding: 30px 0 30px;
+}
+.imline{
+	left: 50%;
+	transform: translateX(-50%);
+}
+.sup{
+	margin-left: 35%;
+	margin-top: 10%;
+}
+.yel1{
+	color: #EAA92F;
+	font-size: 25px;
+	margin-left: -2%;
+}
+.yel{
+	color: #EAA92F;
+	font-size: 20px;
+}
+.yel3{
+	margin-left: 33%;
+}
+.yelo85{
+	font-size: 13px;
+}
+.yel2{
+	margin-left: -23%;
+}
+
+.sup1{
+	margin-top: 10%;
+}
+.gre1{
+	color: #B8D137;
+	font-size: 25px;
+}
+.gre{
+	color: #B8D137;
+	font-size: 20px;
+}
+.greo{
+	font-size: 13px;
+}
+.builddd{
+	margin-left: 30%;
+}
+.quiz{
+	margin-top: 5%;
+}
+.listen1{
+	margin-top: 20px;
+	margin-left: 2%;
+}
+.build{
+    margin-top: 10%;
+}
+.sup{
+	margin-left: 35%;
+	margin-top: 10%;
+}
+.defin1{
+	color: #EAAA2F;
+	font-size: 25px;
+	margin-left: 53%;
+}
+.bui{
+	color: #8257A6;
+	font-size: 17px;
+	margin-left: 92%;
+}
+.fio12{
+	margin-left: 45%;
+}
+.def3{
+	margin-left: 80%;
+	color: #EAAA2F;
+}
+.listen{
+	margin-left: -34%;
+	margin-top: 10%;
+}
+.fioo{
+	font-size: 13px;
+}
+.fio2{
+	margin-left: -31%;
+}
+.building1{
+	margin-left: -33%;
+}
+.yelo1{
+	color: #EAA92F;
+	font-size: 25px;
+}
+.yelo{
+	color: #EAA92F;
+	font-size: 20px;
+}
+.yeloo{
+	font-size: 13px;
+}
+.green{
+	color: #B8D137;
+	font-size: 20px;
+	width: 100%;
+}
+.listen1ng{
+	position: relative;
+	right: 200px;
+}
+.green3{
+	margin-left: 70%;
+}
+.green1{
+	margin-left: 67.5%;
+}
+.block23{
+	margin-left: 35%;
+}
+.compq{
+	margin-top: 6%;
+}
+.yelo1{
+	color: #EAA92F;
+	font-size: 25px;
+}
+.yelo{
+	color: #EAA92F;
+	font-size: 20px;
+}
+.yeloo{
+	font-size: 13px;
+}
+.fioo3{
+	color: #8257A6;
+}
+.fio3{
+	margin-right: 37%;
+}
+.fioo{
+	font-size: 20px;
+}
+.sup15{
+    margin-right: -10%;
+    margin-top: 15%;
+}
+.phonnnee1{
+	position: relative;
+	right: 260px;
+}
+.compqo{
+	margin-left: 10%;
+}
+.build12{
+	margin-left: 73%;
+	width: 100%;
+	color: #8257A6;
+}
+.definition{
+	margin-left: 20%;
+}
+.fioo3{
+	margin-left: 10%;
+}
+.fioo1{
+	margin-left: 10%;
+	color: #8257A6;
+}
+.fioo2{
+	margin-left: 10%;
+}
+.supp2{
+	margin-top: 7%;
+}
+.listen1235{
+	margin-left: -70%;
+}
+.listentest{
+	margin-top: 2%;
+}
+.sup15{
+	margin-left: -60%;
+}
+.blue{
+	color: #526DB4;
+	font-size: 20px;
+}
+.blue4{
+	color: #526DB4;
+	font-size: 20px;
+}
+.blue1{
+	margin-left: 10%;
+}
+.blue12{
+	margin-top: 10%;
+}
+.reading{
+	margin-top: 2.75%;
+}
+.ora3{
+	margin-left: 70%;
+	color: #DE7C33;
+}
+.anorange{
+	margin-left: 30%;
+}
+.ora1{
+	margin-left: 56%;
+	color: #DE7C33;
+}
+.lightgreen1{
+	background-color:#B8D137 ;
+	width: 100%;
+	height: 300px;
+}
+.lightext{
+	margin-top: 7%;
+	color: white;
+	margin-right: 10%;
+	width: 100%;
+}
+.fiogirl{
+	margin-top: -43%;
+}
+.textjapa{
+	width: 100%;
+	color: white;
+	margin-top:40%;
+}
+.bigtextjapa{
+    margin-bottom: 100%;
+}
+.phone143{
+	margin-top: -25%;
+}
+.space{
+	height: 100px;
+}
+.piitext{
+	margin-left: 10%;
+}
+.girlll11l{
+	margin-top: -41.2%;
+}
+.textlight{
+	font-size: 20px;
+}
+.fio1girl{
+	margin-top: 19.1%;
+	margin-right: -28.2%;
+}
+.margintext{
+	margin-top:50%; 
+	color: white;
+	margin-left: 7%;
+}
+.bigdiv{
+	margin-top: 15%;
+}
+.reading{
+   margin-top: 10%;
+}
+.listen8{
+	margin-left: -33%;
+	margin-top: 5%;
+}
+.h22{
+	margin-top: 7%;
+	font-size: 27px;
+}
+.fio1phones{
+	margin-left: 20%;
+	margin-top: -50%;
+}
+.fioolet{
+	background-color: #8258A6;
+	width: 100%;
+	height: 300px;
+	margin-bottom: -60%;
+}
+.sec1{
+	height: 1000px;
+}
+.orangeee{
+	background-color: #DD7C32;
+	width: 100%;
+	height: 300px;
+}
+.buttonbento{
+	margin-left: 42.5%;
+	color: #F5641D;
+	background-color: #fff;
+	border: 3% solid #F5641D;
+
+}
+.butttonn1{
+	margin-top: -2%;
+}
+.linka{
+	text-decoration: none;
+	color: #F5641D;
+}
+.bentoimg{
+	background-image: url(../img/enbento.png);
+	width: 100%;
+}
+.giirls{
+	margin-bottom: -10%;
+}
+.englishbento{
+	padding: 40px 0 0;
+}
+.linka:hover {
+	color: white;
+}
+.widt{
+	width: 13%;
+}
+.none12{
+	display: none;
+}
+.buttonbento:hover{
+	color: white;
+	background-color: #F5641D;
+}
+.bento1{
+   	width: 40%;
+    justify-content: space-between;
+}
+
+.oratext{
+	color: white;
+}
+.light1{
+	margin-top: 34.5%;
+	max-width: 950px;
+	width: 100%;
+}
+.fiolet{
+	background-color: #8258A6;
+}
+.oragirl{
+	margin-top: 6%;
+}
+.threephones{
+	margin-top: -17%;
+}
+.orangirl{
+	margin-top: -34.15%;
+}
+.listen3{
+	margin-left: -35%;
+}
+
+.listen4{
+	margin-left: -35%;
+}
+.listen2{
+	margin-top: 4%;
+	margin-left: -5%;
+}
+@media(max-width: 1380px){
+	.imline{
+		display: none;
+	}
+}
+@media(max-width: 992px){
+        .margi{
+        	margin-top: -30%;
+        	margin-left: -10%;
+        }
+        .fio2phones{
+        	position: relative;
+        	left: 400px;
+        	top:10px;
+        }
+        .fio221{
+        }
+        .margintext	{
+        	margin-top: 100%;
+        	color: black;
+        }
+        .girllll1{
+        	max-width: 400px;
+        	width: 100%;
+        	position: relative!important;
+        	left: 23px;
+        	top: 7.9px;
+        }
+        .building1 .fio21{
+        }
+        .fioolet{
+        	margin-top: 65%;
+        	height: 250px;
+        }
+        .definition{
+        	margin-right: -100%;
+        }
+        .block23{
+        	margin-left: 60%;
+        }
+        .listen{
+        	margin-left: 1%;
+        }
+        .listen2{
+        	margin-left: 13%;
+        }
+        .green3{
+        	margin-right: 10%;
+        	width: 100%;
+        }
+        .listen3{
+        	margin-left: -15%;
+        }
+        .listen4{
+        	margin-left: -10%;
+        }
+        .margintext{
+        	color: black;
+        }
+        .yelo{
+        	margin-top: 13%;
+        }
+        .sup1{
+        	margin-right: 55%;
+        }
+        .gre2{
+            margin-top: 18%;
+        }
+        .light1{
+        	margin-top: 10%;
+        }
+        .gre{
+        	margin-right: -20%;
+        }
+        .textpi{
+        	width: 100%;
+        }
+        .button1{
+        	margin-top: 5%;
+        	margin-left: 20%;
+        	margin: 0 auto;
+        }
+        .none12{
+        	display: none;
+        }
+        .listen1235{
+        	margin-left: 20%;
+        }
+        .qui{
+        	position: relative;
+        	left: 200px;
+        }
+        .listen7{
+        	margin-right: -20%;
+        }
+        .girlllll1{
+        	width: 500px;
+        	margin-top: -52.8%;
+        	max-width: 500px;
+        	width: 100%;
+        }
+        .listening1{
+        	margin-left: 40%;
+        }
+        .quiz1{
+        	margin-left: 13%;
+        }
+        .builddd{
+        	margin-left: 54%;
+        }
+        .lightgreen1{
+        	background-color:#B8D137 ;
+        	height: 280px;
+        }
+        .girlll11l{
+        	margin-top: -35.6%;
+        	width: 250px;
+        	height: 300px;
+        }
+        .widt{
+        	width: 40%;
+        	position: relative;
+        	right: 70.1px;
+        }
+        .white1{
+	        height: 250px;
+        }
+        .lightext{
+        	width: 100%;
+        	margin-top: 50%;
+        	position: relative;
+        	right: 150px;
+        	color: black;
+        }
+        .mar9{
+        	position: relative;
+        	top: 290px;
+        	right: 100px;
+        }
+        .iphone{
+        	margin-bottom: -50%;
+        }	
+        .light2{
+        	max-width: 700px;
+        	width: 100%;
+        	margin-top: 16%;
+        }
+        .girllll1{
+        	margin-top: 35.6%;
+        	width: 250px;
+        	height: 300px;
+        }
+        .oratext{
+        	margin-top :30%;
+        	margin-left: -50%;
+        }
+        .white10{
+        	height: 300px;
+        }
+        .oratext1{
+        	color: #000;
+        }
+        .orangirl{
+        	position: relative!important;
+            top: 129px;
+
+        }
+        .threephones{
+        	margin-top: 1%;
+        	width: 475px;
+        }
+        .orangeee{
+        	margin-bottom: 100%;
+        	height: 200px;
+        	position: relative;
+        }
+        .fiogirl1{
+        	position: relative;
+        	bottom: 132px;
+        }
+        .iphone-right{
+        	position: relative;
+        	top: 300px;
+        	margin-left: -25%;
+        }
+        .right-1{
+        	margin-left: -50%;
+        }
+        .def123{
+        	position: relative;
+        	right: 100px;
+        }
+}
