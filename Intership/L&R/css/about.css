@@ -46,3 +46,14 @@ footer{
 .text{
 	padding: 40px 0 0;
 }
+.pic{
+	width: 23%;
+}
+.pic1{
+	width: 80%;
+}
+@media (max-width: 992px){
+	.pic{
+		width: 100%;
+	}
+}
